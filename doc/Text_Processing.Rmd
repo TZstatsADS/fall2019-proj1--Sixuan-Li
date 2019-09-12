@@ -137,6 +137,8 @@ dt_lyrics <- dt_lyrics %>%
 
 ```{r export data}
 save(dt_lyrics, file="../output/processed_lyrics.RData")
+
+write.csv(dt_lyrics,file = 'dt_lyrics.csv')
 ```
 
 The final processed data is ready to be used for any kind of analysis.
