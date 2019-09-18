@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Popular words and vocabulary and some sentimental analysis regarding to origin of songs
 + This project is conducted by [Sixuan Li]
 
 + Project summary: [a short summary] Would an artist use "genreal popular word" if he has a higher vacabulary? Any relationship between words using and origin (or genre) ? 
