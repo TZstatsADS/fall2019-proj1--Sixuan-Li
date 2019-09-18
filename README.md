@@ -13,8 +13,8 @@ Term: Fall 2019
 + This project is conducted by [Sixuan Li]
 
 + Project summary: [a short summary]  
- - Would an artist use "genreal popular word" if he has a higher vacabulary? 
- - Any relationship between words using and origin (or genre) ? 
+  - Would an artist use "genreal popular word" if he has a higher vacabulary? 
+  - Any relationship between words using and origin (or genre) ? 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
